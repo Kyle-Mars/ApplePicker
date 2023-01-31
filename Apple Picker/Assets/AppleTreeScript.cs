@@ -10,9 +10,9 @@ public class AppleTreeScript : MonoBehaviour
     public GameObject Apple;
 
     public float appleDropTime = 1.0f;
-    public float speed = 3.0f;
+    public float speed = 10.0f;
     public float percentChangeDirection = 0.1f;
-    public float edgeDistance = 10f;
+    public float edgeDistance = 13f;
     // Start is called before the first frame update
     void Start()
     {
